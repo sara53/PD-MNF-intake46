@@ -1,0 +1,19 @@
+== this
+ 1- Default Binding // window
+ 2- implicit Binding
+ 3- Explicit Binding
+ 4- new Binding -- function constructor
+ 5- lexical Binding -- arrow function
+
+== hard binding
+ == that Pattern
+
+ == call -- bind - apply
+
+ == closure
+ == Factory Pattern
+ == Function constructor -- 
+
+
+== this in modules in Es6 -- by default = undefined also in use strict
+// JS Engine -- 
